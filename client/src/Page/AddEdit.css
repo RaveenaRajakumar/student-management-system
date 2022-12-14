@@ -1,0 +1,46 @@
+.add-student-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    top: 50%;
+    width: 1000px;
+    height: 700px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: #f7fbfd;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+  }
+  
+  .add-student-box h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: var(--white);
+    text-align: center;
+  }
+  
+  .add-student-box .add-student-table {
+    position: relative;
+  }
+
+
+#about{
+  padding: 50px;
+}
+
+.arrow{
+  cursor: pointer;
+  float: left;
+}
+  
+.button{
+  cursor: pointer;
+  color: white;
+  background-color: black;
+}
+  
+
+  
+  
+  

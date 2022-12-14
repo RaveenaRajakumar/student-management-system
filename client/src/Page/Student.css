@@ -1,0 +1,55 @@
+.student_page {
+    padding: 10px;
+  }
+  body{
+    background-color: white;
+
+  }
+  h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16;
+  }
+
+  button {
+    background-color:black;
+    color: white;
+    padding: 10px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 40%;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+
+   .btn {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    background-color: black;
+    font-size: 16px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 5px;
+  }
+  
+   .btn:hover {
+    background: var(--white);
+    color: var(--black);
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .search{
+    padding:5px;
+    background-color: grey;
+    border-radius: 5px;
+  }
+
+
+
+
+
+  
